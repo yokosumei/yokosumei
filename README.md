@@ -1,12 +1,26 @@
-<!-- BANNER SUS PERSONALIZABIL (opțional) -->
-<!-- Poți pune aici bannerul tău (1280x300 recomandat) -->
+<!-- OPTIONAL BANNER SUS -->
+<!--
+<p align="center">
+  <img src="YOUR_BANNER_LINK_HERE.gif" alt="banner" width="100%" />
+</p>
+-->
 
 ---
 
 ## 👋 Hi there!
 
-I'm **yokosumei** – a creative student 🙂  
-I love mixing **AI**, **electronics**, and **web tech** to build things that actually do stuff.
+<table>
+  <tr>
+    <td>
+      <h3>I'm <strong>yokosumei</strong> – a creative student 🙂</h3>
+      <p>I love mixing <strong>AI</strong>, <strong>electronics</strong>, and <strong>web tech</strong> to build things that actually do stuff.  
+      My projects often combine real-time detection, hardware integration and web interfaces.</p>
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZqMmM2aHoyNWlsbGQyOGdxNjVkanRsdXEyOWo3MWNyMXQ4OWg3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10fS0TJxfFRDLW/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -19,53 +33,19 @@ I love mixing **AI**, **electronics**, and **web tech** to build things that act
 
 ---
 
-## 🎵 Currently vibing to:
+## 🎵 Now Playing
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" alt="Now playing: In the Stars - Benson Boone" />
+  <img src="https://img.shields.io/badge/🎵 In_The_Stars-Benson_Boone-61dafb?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Latest Project
+## 📦 Featured Repository
 
-<table>
-  <tr>
-    <td>
-      <h4>🛰️ <a href="https://github.com/yokosumei/yolo-stream-app">Drowning Detection System</a></h4>
-      <p>YOLOv11 + Flask + PiCam + Servo + DroneKit</p>
-      <img src="https://img.shields.io/badge/python-Flask-blue?style=flat-square&logo=flask" />
-      <img src="https://img.shields.io/github/stars/yokosumei/yolo-stream-app?style=social" />
-    </td>
-  </tr>
-</table>
-
----
-
-## ⭐ Favourite Repositories
-
-<table>
-  <tr>
-    <td>
-      <h4>🔥 <a href="https://github.com/ultralytics/ultralytics">ultralytics</a></h4>
-      <p>YOLO official</p>
-    </td>
-    <td>
-      <h4>🤖 <a href="https://github.com/tensorflow/models">tensorflow/models</a></h4>
-      <p>Deep learning models</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🧠 <a href="https://github.com/openai/openai-python">openai-python</a></h4>
-      <p>OpenAI SDK</p>
-    </td>
-    <td>
-      <h4>🎮 <a href="https://github.com/processing/p5.js">p5.js</a></h4>
-      <p>Creative coding framework</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yokosumei&repo=yolo-stream-app&theme=react&border_color=61dafb&border_radius=10" />
+</p>
 
 ---
 
