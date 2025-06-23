@@ -1,4 +1,4 @@
-<!-- 🌟 OPTIONAL STAR LOGO SUS -->
+<!-- banner sus cand oi avea-->
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/yokosumei/yokosumei/main/assets/star-shell.png" width="120" />
@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=A+long+time+ago...;In+a+galaxy+far+far+away+%3A)&center=true&size=25" />
 </p>
 
-<!-- 🌌 INTRO + ANIMAȚIE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+long+time+ago...;In+a+galaxy+far+far+away+%3A)&center=true&size=25" />
-</p>
 
 <div>
 
