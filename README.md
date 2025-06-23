@@ -9,37 +9,29 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=A+long+time+ago...;In+a+galaxy+far+far+away+%3A)&center=true&size=25" />
 </p>
 
-<!-- 🌟 OPTIONAL STAR LOGO SUS -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yokosumei/yokosumei/main/assets/star-shell.png" width="120" />
-</p>
--->
-
+<!-- 🌌 INTRO + ANIMAȚIE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=A+long+time+ago...;In+a+galaxy+far+far+away+%3A)&center=true&size=25" />
 </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+<div>
 
-  <div style="max-width: 500px; flex: 1;">
-    <h3>I'm <strong>yokosumei</strong>!</h3>
-    <p> I'm a student passionate about robotics! Especially the ones involved in medicine :)))</p>
-    <p>⌊ Still learning! ⌋</p>
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZqMmM2aHoyNWlsbGQyOGdxNjVkanRsdXEyOWo3MWNyMXQ4OWg3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10fS0TJxfFRDLW/giphy.gif" width="250" />
 
-   <h4>📚 Currently learning:</h4>
-    <ul>
-      <li>Advanced Python & Flask</li>
-      <li>Embedded systems with Raspberry Pi</li>
-      <li>YOLO object detection workflows</li>
-      <li>Machine learning for human movement analysis</li>
-    </ul>
-  </div>
+  <h3>I'm <strong>yokosumei</strong>!</h3>
+  <p>
+    I'm a student passionate about robotics! Especially the ones involved in medicine :)))  
+    <br><br>
+    ⌊ Still learning! ⌋
+  </p>
 
-  <div>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZqMmM2aHoyNWlsbGQyOGdxNjVkanRsdXEyOWo3MWNyMXQ4OWg3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10fS0TJxfFRDLW/giphy.gif" width="250" />
-  </div>
-
+  <h4>📚 Currently learning:</h4>
+  <ul>
+    <li>Advanced Python & Flask</li>
+    <li>Embedded systems with Raspberry Pi</li>
+    <li>YOLO object detection workflows</li>
+    <li>Machine learning for human movement analysis</li>
+  </ul>
 </div>
 
 
