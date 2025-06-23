@@ -7,9 +7,8 @@
 
 ## 👋 Hi there!
 
-I'm **yokosumei** – a developer, hardware hacker and tech explorer.  
+I'm **yokosumei** – a creative student :) 
 I love mixing **AI**, **electronics**, and **web tech** to build things that actually do stuff.  
-From Raspberry Pi drones to custom roller shoes and YOLO detection systems — I create, test, break and rebuild.
 
 ---
 
@@ -22,7 +21,7 @@ From Raspberry Pi drones to custom roller shoes and YOLO detection systems — I
 
 ---
 
-## 🎞️ My vibe right now
+## This should work
 
 <p align="right">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" />
@@ -32,9 +31,7 @@ From Raspberry Pi drones to custom roller shoes and YOLO detection systems — I
 
 ## 🚀 Latest Projects
 
-- 🛰️ [Drowning Detection System](https://github.com/yokosumei/drowning-detector) – YOLOv11 + Flask + PiCam + Servo + DroneKit
-- 👟 [3D Roller Shoe Extension](https://github.com/yokosumei/3d-roller-shoes) – Adjustable roller frame with 3D printed and metal parts
-- 📷 [Live Stream Flask App](https://github.com/yokosumei/live-stream-flask) – Real-time object detection with web interface
+- 🛰️ [Drowning Detection System](https://github.com/yokosumei/yolo-stream-app) – YOLOv11 + Flask + PiCam + Servo + DroneKit
 
 ---
 
