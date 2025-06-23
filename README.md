@@ -5,27 +5,24 @@
 </p>
 -->
 
-<!-- 🛸 TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+long+time+ago...;In+a+galaxy+far+far+away+%3A)&center=true&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+long+time+ago...;In+a+galaxy+far+far+away+%3A)&center=true&size=25" />
 </p>
 
-<!-- 😎 ABOUT ME (text stânga, gif dreapta, no table) -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <div style="max-width: 500px;">
-    <h3>I'm <strong>yokosumei</strong> – a creative student 😊</h3>
+    <h3>I'm <strong>yokosumei</strong>!</h3>
     <p>
-      I love mixing <strong>AI</strong>, <strong>electronics</strong>, and <strong>web tech</strong> to build things that actually do stuff.
-      <br><br>
-      My projects often combine real-time detection, hardware integration and web interfaces.
+      I'm a student passionate about robotics! Especially the ones involved in medicine :)))
+           ⌊ Still learning! ⌋     
     </p>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZqMmM2aHoyNWlsbGQyOGdxNjVkanRsdXEyOWo3MWNyMXQ4OWg3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10fS0TJxfFRDLW/giphy.gif" width="250" />
   </div>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZqMmM2aHoyNWlsbGQyOGdxNjVkanRsdXEyOWo3MWNyMXQ4OWg3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10fS0TJxfFRDLW/giphy.gif" width="250" />
 </div>
 
 ---
 
-## 🔥 Languages & Tools & Projects
+##==Languages &T ools==
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,pytorch,opencv,raspberrypi,arduino,bash&theme=dark&perline=10" />
@@ -34,7 +31,7 @@
 
 ---
 
-## 🚀 Some Projects
+##==Some Projects==
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yokosumei&repo=yolo-stream-app&theme=react&border_color=61dafb&border_radius=10" />
@@ -42,7 +39,7 @@
 
 ---
 
-## ⭐ My Favourite Projects
+##=⭐My Favourite Projects⭐=
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultralytics&repo=ultralytics&theme=react&border_color=61dafb&border_radius=10" />
@@ -53,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##==GitHub Stats==
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yokosumei&show_icons=true&locale=en&layout=compact" alt="yokosumei" />
